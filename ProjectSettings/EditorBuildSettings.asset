@@ -9,8 +9,20 @@ EditorBuildSettings:
     path: "Assets/Scenes/Men\xFC.unity"
     guid: b2fe0818157acf249a14b2e3e5ceba86
   - enabled: 1
-    path: Assets/Scenes/BeerPong.unity
+    path: Assets/Scenes/Level 1.unity
     guid: 405ec25dfe8e7cf439c0e3188a334d4e
+  - enabled: 1
+    path: Assets/Scenes/A.unity
+    guid: 69e02cee9e01deb4c864152e23858a5a
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: af08d2f90c0c184478cbd50101297a06
+  - enabled: 1
+    path: Assets/Scenes/B.unity
+    guid: f147ab1324e9d68428221eae076f19ce
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 40dd11fc261b82d49a7d471ddca66d0e
   - enabled: 1
     path: Assets/Scenes/Win.unity
     guid: ac710bc9b4eebe84da25b0711940d0a3

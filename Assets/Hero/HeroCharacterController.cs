@@ -16,7 +16,7 @@ public class HeroCharacterController : MonoBehaviour
     private bool isGrounded;
     private float horizontalInput;
     public AudioSource someSound;
-  
+    
 
 
     // Start is called before the first frame update
@@ -60,7 +60,8 @@ public class HeroCharacterController : MonoBehaviour
             someSound.Play();
         }
 
-        //verticale Geschwindigkeit
-        characterController.Move(velocity * Time.deltaTime);
+
+    //verticale Geschwindigkeit
+    characterController.Move(velocity * Time.deltaTime);
     }
 }

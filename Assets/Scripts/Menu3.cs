@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Win : MonoBehaviour
+public class Menu3 : MonoBehaviour
 {
 
-    void OnTriggerEnter(Collider other)
+    public void playGame()
     {
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(5);
     }
 }
+
